@@ -1,9 +1,0 @@
-def print_hello2():
-    print("Hello hello nonono")
-
-def print_KIT():
-    print("Kumoh National Institute of Technology.")
-
-if__name__ == '__main__':
-    print_KIT()
-    print_hello2()
