@@ -1,0 +1,7 @@
+def minus(a,b):
+    x = a-b
+    return x
+
+if__name__ == '__main__':
+    minus(3,1)
+    print("correct")

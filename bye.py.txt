@@ -1,0 +1,5 @@
+def bye():
+    print("bye")
+
+if__name__ == '__main__':
+    bye()
