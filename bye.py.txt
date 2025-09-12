@@ -1,5 +1,9 @@
 def bye():
     print("bye")
 
+def seeYa():
+    print("see u later")
+
 if__name__ == '__main__':
     bye()
+    seeYa()

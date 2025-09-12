@@ -1,5 +1,11 @@
 def hello():
     print("hello")
 
+def hellohello(a,b):
+    hello()
+    return (a+b)
+
+
 if __name__ == '__main__':
     hello()
+    hellohello(6,4)
